@@ -1,7 +1,7 @@
 # ADAM-EP2EP3-Character-Pack
 This package has been deprecated from the Asset Store, this is just back up copy.
 
-# Dowload 
+# Dowload The unitypackage
 https://github.com/michael430/ADAM-EP2-EP3-Character-Pack/releases/tag/v1.0
 
 # info
