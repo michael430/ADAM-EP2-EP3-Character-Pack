@@ -9,4 +9,4 @@ https://blogs.unity3d.com/2018/04/11/assets-from-adam-episode-2-and-3-now-availa
 
 ![Traption_inlay_image-1](https://blogs.unity3d.com/wp-content/uploads/2018/04/Traption_inlay_image-1.png)
 
-Compatible with Unity version: 5.6.x to 2019.4.x
+Compatible with Unity version: 5.6.x to 2019.4.x with Built-in Standard rendering pipeline only
