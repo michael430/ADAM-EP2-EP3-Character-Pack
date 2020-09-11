@@ -7,4 +7,4 @@ This package has been deprecated from the Asset Store, this is just a back up co
 
 ![Traption_inlay_image-1](https://blogs.unity3d.com/wp-content/uploads/2018/04/Traption_inlay_image-1.png)
 
-Compatible with Unity version: 5.6.x to 2019.4.x with **Built-in Standard** rendering pipeline only
+Compatible with Unity version: 5.6.x to 2019.4.x with **Built-in Standard** render pipeline only
