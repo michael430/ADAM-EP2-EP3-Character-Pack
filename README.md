@@ -5,6 +5,6 @@ This package has been deprecated from the Asset Store, this is just a back up co
 
 ### Unity [Blog](https://blogs.unity3d.com/2018/04/11/assets-from-adam-episode-2-and-3-now-available-for-creators-to-explore-on-the-unity-asset-store/)
 
-![Traption_inlay_image-1](https://blog-api.unity.com/sites/default/files/styles/focal_crop_ratio_16_9/public/2018/04/Traption_inlay_image-1.png?imwidth=2048&h=8f74817f&itok=aYA6bHYI)
+![Traption_inlay_image-1](ADAM-EP2EP3-Character3.jpg)
 
 Compatible with Unity version: 5.6.x to 2019.4.x with **Built-in Standard** render pipeline only
